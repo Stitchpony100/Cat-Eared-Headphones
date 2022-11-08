@@ -1,0 +1,27 @@
+{
+    "__author": "Stitchpony",
+    "version": 3,
+    "type": 0,
+    "name": "stitchpony_headset",
+    "img_sit": "stitchpony_headset",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 5,
+    "acs_type": "headband",
+    "stay_on_start": true,
+    "dlg_desc": "cat-eared headphones",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Cat-Eared Headphones",
+        "thumb": "stitchpony_headset",
+        "group": "left-hair-clip",
+        "select_dlg": [
+            "Are you going to play me some music?",
+            "Just Meownika~",
+            "Thanks for the headphones, [player]! I love them~"
+        ]
+    },
+    "giftname": "catearheadphones"
+}
